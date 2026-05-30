@@ -1,0 +1,4 @@
+# Copie este arquivo para terraform.tfvars e preencha os valores
+# cp terraform.tfvars.example terraform.tfvars
+
+db_password = "SUA_SENHA_DO_BANCO"

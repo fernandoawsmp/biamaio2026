@@ -58,8 +58,8 @@ const AddTask = ({ onAdd }) => {
         <label htmlFor="importante">Importante</label>
       </div>
       
-      <button type="submit" className="btn btn-block purple">
-        Adicionar nova tarefa V2
+      <button type="submit" className="btn btn-block yellow">
+        Adicionar nova tarefa - imersao maio 2026
       </button>
       
       <Modal
