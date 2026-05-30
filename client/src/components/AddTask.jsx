@@ -59,7 +59,7 @@ const AddTask = ({ onAdd }) => {
       </div>
       
       <button type="submit" className="btn btn-block yellow">
-        Adicionar nova tarefa - imersao maio 2026
+        Adicionar nova tarefa imersao maio 2026
       </button>
       
       <Modal
