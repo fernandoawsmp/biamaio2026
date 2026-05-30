@@ -11,6 +11,7 @@
   --border-color: #e5e7eb;
   --accent-primary: #3b82f6;
   --accent-success: #10b981;
+  --accent-purple: #8b5cf6;
   --accent-danger: #ef4444;
   --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
 }
@@ -25,6 +26,7 @@
   --border-color: #374151;
   --accent-primary: #60a5fa;
   --accent-success: #34d399;
+  --accent-purple: #a78bfa;
   --accent-danger: #f87171;
   --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.3);
 }
@@ -122,6 +124,10 @@ body {
 
 .btn.success {
   background: var(--accent-success);
+}
+
+.btn.purple {
+  background: var(--accent-purple);
 }
 
 .btn-block {
